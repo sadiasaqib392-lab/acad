@@ -1,0 +1,124 @@
+[
+  {
+    "id": "basic-arabic",
+    "slug": "basic-arabic",
+    "title": "Basic Arabic",
+    "arabicTitle": "اللغة العربية للمبتدئين",
+    "category": "Language",
+    "level": "Beginner",
+    "suitableFor": "Beginners, kids, and adults who want to learn foundational Arabic speaking, reading, and writing",
+    "duration": "4 to 6 Months",
+    "classesPerWeek": "2 to 3 classes / week (45 mins)",
+    "shortDesc": "Foundational Arabic language skills covering basic conversation, everyday vocabulary, alphabet phonetics, and essential grammar.",
+    "fullOverview": "Learn essential conversational and written Arabic from certified native scholars. Build everyday vocabulary, greetings, basic sentence construction, and fundamental grammar rules (Nahw & Sarf essentials) in interactive 1-on-1 sessions.",
+    "whatYouWillLearn": [
+      "Fundamental Arabic grammar rules (Nahw & Sarf essentials)",
+      "Everyday conversational vocabulary and phrases",
+      "Proper Arabic sentence structuring and syntax",
+      "Listening and speaking exercises with native tutors",
+      "Reading simple Arabic texts, dialogues, and short stories"
+    ],
+    "learningOutcomes": [
+      "Ability to communicate in basic Arabic conversation with confidence",
+      "Command over fundamental Arabic grammar terms and structures",
+      "Reading comprehension of simple Arabic texts without hesitation"
+    ],
+    "courseBenefits": [
+      "Interactive flashcard decks and digital vocabulary drills",
+      "Accelerated learning method designed specifically for non-native speakers",
+      "Dedicated 1-on-1 attention with native certified Arabic instructors"
+    ],
+    "teachingMethodology": "Pattern recognition, high-frequency word immersion, and live sentence breakdown.",
+    "classFormat": "1-on-1 focused study session with custom interactive worksheets.",
+    "image": "/assets/images/islamic_academy_learning_1790269898921.jpg",
+    "badge": "Popular Language Track",
+    "faqs": [
+      {
+        "question": "Is this spoken dialect Arabic or Classical Arabic?",
+        "answer": "This is Modern Standard & Classical Fusha Arabic, providing the perfect base for both spoken understanding and reading religious texts."
+      },
+      {
+        "question": "Do I need prior knowledge of Arabic to join?",
+        "answer": "No prior knowledge is required! We start right from alphabet recognition, basic vowels, and introductory greetings."
+      }
+    ]
+  },
+  {
+    "id": "quranic-arabic",
+    "slug": "quranic-arabic",
+    "title": "Quranic Arabic",
+    "arabicTitle": "العربية القرآنية",
+    "category": "Language",
+    "level": "Intermediate",
+    "suitableFor": "Students who want to unlock direct comprehension of Quranic vocabulary and grammar",
+    "duration": "6 to 12 Months",
+    "classesPerWeek": "2 to 3 classes / week (45 mins)",
+    "shortDesc": "Master Quranic vocabulary, verbal conjugations, and Sarf/Nahw to understand verses directly in the original Arabic language.",
+    "fullOverview": "Designed specifically to unlock the direct linguistic beauty and depth of the Quran. Learn the most frequent Quranic root words, grammatical structures, and syntax so you understand the recitation without needing translations.",
+    "whatYouWillLearn": [
+      "The 500 most frequent Quranic vocabulary roots that appear thousands of times",
+      "Quranic verb forms (Thulathi Mujarrad and Mazid Feeh)",
+      "Harf, Ism, and Fi'l relationships across sacred Ayahs",
+      "Direct translation and grammatical parsing of Surahs during live recitation"
+    ],
+    "learningOutcomes": [
+      "Understand up to 70-80% of Quranic vocabulary directly while reciting",
+      "Analyze grammatical structures of sacred verses",
+      "Deeper spiritual Khushoo during daily Salah and Taraweeh"
+    ],
+    "courseBenefits": [
+      "Interactive flashcard decks and digital vocabulary drills",
+      "Accelerated learning method designed specifically for non-native speakers",
+      "Real Quranic passage exercises rather than abstract grammatical theories"
+    ],
+    "teachingMethodology": "Pattern recognition, high-frequency word immersion, and live sentence breakdown.",
+    "classFormat": "1-on-1 focused study session with custom interactive worksheets.",
+    "image": "/assets/images/quran_tajweed_reading_1790269867429.jpg",
+    "badge": "High Impact",
+    "faqs": [
+      {
+        "question": "How quickly will I start understanding the Quran directly?",
+        "answer": "Within the first 8-10 weeks, you will master the most repeated 250 Quranic words, allowing you to recognize key meanings during Salah."
+      }
+    ]
+  },
+  {
+    "id": "translation",
+    "slug": "translation",
+    "title": "Translation",
+    "arabicTitle": "ترجمة القرآن الكريم",
+    "category": "Understanding",
+    "level": "Intermediate",
+    "suitableFor": "Seekers wanting to understand word-for-word and contextual meaning of the Holy Quran",
+    "duration": "12 to 18 Months",
+    "classesPerWeek": "2 to 3 classes / week (45 mins)",
+    "shortDesc": "Word-for-word and contextual translation of the Holy Quran to understand divine guidance in your native language.",
+    "fullOverview": "The Quran Translation Course allows students to deeply comprehend the Holy Quran in English and Urdu. Learn root words, sentence structures, and direct meanings of the verses revealed by Allah without Tafseer complexities.",
+    "whatYouWillLearn": [
+      "Word-by-word translation and root word analysis of key Quranic terms",
+      "Contextual translation of Makki and Madani Surahs",
+      "Direct comprehension of the ethical and spiritual guidance in each verse",
+      "Translation of daily recitations, Duas, and Salah supplications"
+    ],
+    "learningOutcomes": [
+      "Deep emotional connection during Salah, knowing the exact meaning of what is recited",
+      "Complete word-for-word translation knowledge of selected Surahs or full Quran",
+      "Ability to understand and reflect upon the Holy Quran in daily life"
+    ],
+    "courseBenefits": [
+      "Taught by qualified scholars with deep linguistic training",
+      "Digital side-by-side translation Mushaf provided for classes",
+      "Flexible schedule with male or female teacher preferences"
+    ],
+    "teachingMethodology": "Word-by-word linguistic translation with contextual reflection and sentence breakdown.",
+    "classFormat": "1-on-1 personalized private video session.",
+    "image": "/assets/images/hero_quran_rehal_1790269853962.jpg",
+    "badge": "Sacred Meaning",
+    "faqs": [
+      {
+        "question": "Is this translation available in Urdu and English?",
+        "answer": "Yes! Our scholars teach fluent translation in both English and Urdu according to student preference."
+      }
+    ]
+  }
+]

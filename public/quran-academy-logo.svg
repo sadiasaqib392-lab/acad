@@ -1,0 +1,118 @@
+<svg viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="qeaOfficialGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#FAB005" />
+      <stop offset="50%" stopColor="#F59F00" />
+      <stop offset="100%" stopColor="#F08C00" />
+    </linearGradient>
+    <filter id="goldGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#F59F00" flood-opacity="0.25" />
+    </filter>
+  </defs>
+
+  <!-- Group with Official Gold Fill -->
+  <g fill="url(#qeaOfficialGold)" stroke="none">
+    <!-- Top Spire & Crescent Moon -->
+    <!-- Crescent Moon at Top -->
+    <path d="M250 8 C256 8 261 11 264 16 C266 19 266 23 264 26 C261 31 256 34 250 34 C243 34 237 28 237 21 C237 14 243 8 250 8 Z M253 11 C248 11 244 15 244 21 C244 26 248 31 253 31 C257 31 260 28 261 24 C256 26 250 24 248 19 C247 16 248 13 253 11 Z" />
+    <!-- Vertical Spire connecting Crescent to Apex -->
+    <rect x="248.5" y="32" width="3" height="34" rx="1.5" />
+    <circle cx="250" cy="40" r="2.5" />
+
+    <!-- Outer Sweeping Arch Canopy (Left Wing) -->
+    <path d="M250 64 C236 82 178 140 128 185 C75 233 18 290 6 365 C-2 415 15 458 43 472 C41 462 38 438 40 405 C44 340 92 278 142 225 C192 172 238 108 250 64 Z" />
+
+    <!-- Outer Sweeping Arch Canopy (Right Wing) -->
+    <path d="M250 64 C264 82 322 140 372 185 C425 233 482 290 494 365 C502 415 485 458 457 472 C459 462 462 438 460 405 C456 340 408 278 358 225 C308 172 262 108 250 64 Z" />
+
+    <!-- Hanging Lantern Top Chain & Beads -->
+    <rect x="249" y="68" width="2" height="78" />
+    <circle cx="250" cy="85" r="3" />
+    <circle cx="250" cy="105" r="3.5" />
+    <circle cx="250" cy="125" r="4" />
+    <circle cx="250" cy="144" r="2.5" />
+
+    <!-- Hanging Central Lantern (Fanoos / Mosque Dome) -->
+    <!-- Dome Top -->
+    <path d="M250 148 C242 148 238 155 234 168 C232 176 230 185 228 194 L272 194 C270 185 268 176 266 168 C262 155 258 148 250 148 Z" />
+    <!-- Dome Finial -->
+    <circle cx="250" cy="146" r="2.5" />
+    <!-- Horizontal Eaves Trim -->
+    <rect x="224" y="194" width="52" height="7" rx="2" />
+
+    <!-- Lantern Body with Arched Windows (using evenodd to cut out windows) -->
+    <path fill-rule="evenodd" d="M228 201 L272 201 L272 248 L228 248 Z M234 212 C234 207 238 205 241 205 C244 205 248 207 248 212 L248 242 L234 242 Z M252 212 C252 207 256 205 259 205 C262 205 266 207 266 212 L266 242 L252 242 Z" />
+
+    <!-- Bottom Eaves Trim -->
+    <rect x="225" y="248" width="50" height="6" rx="2" />
+    <!-- Lantern Base Cup -->
+    <path d="M229 254 C231 268 240 280 250 284 C260 280 269 268 271 254 Z" />
+    <!-- Bottom Decorative Hanging Drop -->
+    <rect x="249.2" y="284" width="1.6" height="12" />
+    <circle cx="250" cy="298" r="3" />
+
+    <!-- Left Flanking Hanging Lamp -->
+    <line x1="138" y1="175" x2="138" y2="215" stroke="url(#qeaOfficialGold)" stroke-width="1.8" stroke-dasharray="1.5 2" />
+    <circle cx="138" cy="216" r="2.5" />
+    <!-- Diamond/Lozenge Lamp -->
+    <path d="M138 219 L150 236 L138 253 L126 236 Z" />
+    <line x1="138" y1="253" x2="138" y2="264" stroke="url(#qeaOfficialGold)" stroke-width="1.5" />
+    <circle cx="138" cy="265" r="1.8" />
+
+    <!-- Right Flanking Hanging Lamp -->
+    <line x1="362" y1="175" x2="362" y2="215" stroke="url(#qeaOfficialGold)" stroke-width="1.8" stroke-dasharray="1.5 2" />
+    <circle cx="362" cy="216" r="2.5" />
+    <!-- Diamond/Lozenge Lamp -->
+    <path d="M362 219 L374 236 L362 253 L350 236 Z" />
+    <line x1="362" y1="253" x2="362" y2="264" stroke="url(#qeaOfficialGold)" stroke-width="1.5" />
+    <circle cx="362" cy="265" r="1.8" />
+
+    <!-- Stars (5-Pointed Stars matching user logo) -->
+    <!-- Star 1: Upper Left -->
+    <polygon points="178,168 181,176 189,176 183,181 185,189 178,184 171,189 173,181 167,176 175,176" />
+
+    <!-- Star 2: Mid Left near Lantern -->
+    <polygon points="185,268 187,274 194,274 189,278 191,285 185,281 179,285 181,278 176,274 183,274" />
+
+    <!-- Star 3: Far Left under Arch -->
+    <polygon points="62,284 64,289 69,289 65,292 67,297 62,294 57,297 59,292 55,289 60,289" />
+
+    <!-- Star 4: Large Star Right of Lantern -->
+    <polygon points="314,233 318,244 330,244 320,251 324,262 314,255 304,262 308,251 298,244 310,244" />
+
+    <!-- Star 5: Upper Right -->
+    <polygon points="302,158 304,163 310,163 305,167 307,172 302,169 297,172 299,167 294,163 300,163" />
+
+    <!-- Star 6: Far Right under Arch -->
+    <polygon points="438,266 440,271 445,271 441,274 443,279 438,276 433,279 435,274 431,271 436,271" />
+
+    <!-- Open Holy Quran (Centerpiece) -->
+    <!-- Left Inner Page -->
+    <path d="M246 384 C210 330 160 300 134 296 C130 295 125 299 123 303 L100 358 C99 361 101 364 104 366 C140 382 195 418 244 456 L246 384 Z" />
+
+    <!-- Right Inner Page -->
+    <path d="M254 384 C290 330 340 300 366 296 C370 295 375 299 377 303 L400 358 C401 361 399 364 396 366 C360 382 305 418 256 456 L254 384 Z" />
+
+    <!-- Left Middle Page Layer / Border Line -->
+    <path d="M116 352 L146 304 C175 315 215 342 245 378 L244 388 C205 352 165 330 130 322 L108 368 L116 352 Z" />
+
+    <!-- Right Middle Page Layer / Border Line -->
+    <path d="M384 352 L354 304 C325 315 285 342 255 378 L256 388 C295 352 335 330 370 322 L392 368 L384 352 Z" />
+
+    <!-- Left Outer Angled Book Cover Edge -->
+    <path d="M96 364 L74 374 C70 376 68 381 70 385 L85 415 C135 448 195 482 246 510 L246 492 C198 466 142 432 96 400 L96 364 Z" />
+
+    <!-- Right Outer Angled Book Cover Edge -->
+    <path d="M404 364 L426 374 C430 376 432 381 430 385 L415 415 C365 448 305 482 254 510 L254 492 C302 466 358 432 404 400 L404 364 Z" />
+
+    <!-- Quran Central Spine Divider -->
+    <rect x="248" y="380" width="4" height="80" rx="2" fill="#FAF8F5" />
+
+    <!-- Rehal (X-Stand Bookstand) with Cutout Scroll Motifs -->
+    <!-- Left Rehal Foot & Leg with Cutout -->
+    <path fill-rule="evenodd" d="M246 480 L188 534 C184 538 180 540 176 538 L162 531 C158 529 157 524 160 520 L204 480 L178 480 C172 480 167 483 164 488 L152 506 C148 512 144 514 140 512 C134 509 133 502 137 496 L164 456 C168 450 175 446 182 446 L246 446 Z M182 490 C186 490 190 493 190 497 C190 501 186 504 182 504 C178 504 174 501 174 497 C174 493 178 490 182 490 Z" />
+
+    <!-- Right Rehal Foot & Leg with Cutout -->
+    <path fill-rule="evenodd" d="M254 480 L312 534 C316 538 320 540 324 538 L338 531 C342 529 343 524 340 520 L296 480 L322 480 C328 480 333 483 336 488 L348 506 C352 512 356 514 360 512 C366 509 367 502 363 496 L336 456 C332 450 325 446 318 446 L254 446 Z M318 490 C314 490 310 493 310 497 C310 501 314 504 318 504 C322 504 326 501 326 497 C326 493 322 490 318 490 Z" />
+  </g>
+</svg>
